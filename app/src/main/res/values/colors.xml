@@ -3,4 +3,8 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+<!--  记事本  -->
+    <color name="title_text">#000</color>
+    <color name="content_text">#373737</color>
+    <color name="line">#323232</color>
 </resources>
